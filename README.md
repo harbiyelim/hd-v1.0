@@ -1,2 +1,1 @@
-# hd-v1.0
-Harbiyeli Dev fivem server pack v1.0
+##### Şu an piyasa da full fix diye satılan çok fazla paket var fakat bunların çoğu full fix değil. Hem satmak için hem de zaman geçirmek için bir paket yapmaya başladım. Keyimin üzerinde olan scriptler ile güzel bir paket yapmaya çalıştım. Full Fix tabi ki :D. Umarım seversiniz güncellemeler için: https://discord.gg/hddev
