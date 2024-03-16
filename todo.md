@@ -13,7 +13,6 @@
 - atm soygunu eklenecek.
 - banka soygunu eklenecek.
 - pacific soygunu eklenecek.
-- ~fpsmenu eklenecek.~
 - crafting sistemi eklenecek.
 - outfit bag eklenecek.
 - carcontrol eklenecek.
