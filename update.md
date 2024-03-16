@@ -21,5 +21,5 @@
 - Silah tamiri eklendi.
 - market soygunu eklendi.
 - kuyumcu soygunu eklendi.
-- pausmenu eklendi.
-  
+- pausemenu eklendi.
+- fps menu eklendi.
