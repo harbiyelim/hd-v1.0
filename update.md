@@ -1,0 +1,23 @@
+#### Yapılanlar
+
+- codem bank eklendi.
+- um-multi eklendi.
+- qb-policejob düzenlendi.
+- uwu'ya shop eklendi.
+- uwu'ya depo eklendi.
+- uwu'ya kıyafetçi eklendi.
+- uwu'ya garaj eklendi.
+- linden_dispatch eklendi.
+- 0r-gps eklendi.
+- 0r-radio eklendi.
+- um-id eklendi.
+- report eklendi.
+- mChat eklendi.
+- qb-customs eklendi.
+- lj inv eklendi.
+- yeni yemekler eklendi.
+- bean machine eklendi.
+- xRadar eklendi.
+- Silah tamiri eklendi.
+- market soygunu eklendi.
+- kuyumcu soygunu eklendi.
