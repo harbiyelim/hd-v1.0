@@ -20,6 +20,7 @@
 
 - operasyon scripti yazılacak.
 - radial menu değişecek.
+- hastane fixlenecek.
 
 #### Düzenleme
 
