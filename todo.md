@@ -7,7 +7,6 @@
 - sanat eseri soygunu eklenecek.
 - tren soygunu eklenecek.
 - ev soygunu düzenlenecek.
-- atm soygunu eklenecek.
 - banka soygunu eklenecek.
 - pacific soygunu eklenecek.
 - job garage eklenecek.
