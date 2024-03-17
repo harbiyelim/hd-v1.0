@@ -14,10 +14,12 @@
 - şarap sistemi eklenecek.
 - kokain sistemi eklenecek.
 - joint sistemi eklenecek.
+- tgiann mdt v2 eklenecek.
 
 #### Yapılacaklar
 
 - operasyon scripti yazılacak.
+- radial menu değişecek.
 
 #### Düzenleme
 
