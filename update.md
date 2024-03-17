@@ -33,3 +33,4 @@
 - Silah sesi eklendi.
 - Silah askısı eklendi.
 - Polislerin silahlarını yandan çekmesi ayarlandı.
+- Animasyon menü eklendi.
