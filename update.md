@@ -26,3 +26,6 @@
 - tunerchip eklendi.
 - methcar eklendi.
 - mCrafing eklendi.
+- Araç Kiralama eklendi.
+- Polisler için helikopter çıkartma eklendi.
+- Gelişmiş balıkçılık mesleği eklendi.
