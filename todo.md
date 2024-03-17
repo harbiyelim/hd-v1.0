@@ -1,6 +1,5 @@
 #### Eklenecekler
 
-- qb-methcar eklenecek.
 - animasyon eklenecek.
 - motel sistemi eklenecek.
 - balık tutma scripti eklenecek.
@@ -13,7 +12,6 @@
 - atm soygunu eklenecek.
 - banka soygunu eklenecek.
 - pacific soygunu eklenecek.
-- crafting sistemi eklenecek.
 - outfit bag eklenecek.
 - carcontrol eklenecek.
 - job garage eklenecek.
