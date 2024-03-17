@@ -37,4 +37,4 @@
 - outfit bag eklenecek.
 - carcontrol eklenecek.
 - Kamu sistemi eklendi.
-- atm soygunu eklenecek.
+- atm soygunu eklendi.
