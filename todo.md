@@ -1,8 +1,6 @@
 #### Eklenecekler
 
-- animasyon eklenecek.
 - motel sistemi eklenecek.
-- balık tutma scripti eklenecek.
 - hobi mesleği eklenecek.
 - burger shot eklenecek.
 - illegal doktor eklenecek.
