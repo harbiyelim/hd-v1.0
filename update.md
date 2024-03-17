@@ -29,3 +29,4 @@
 - Araç Kiralama eklendi.
 - Polisler için helikopter çıkartma eklendi.
 - Gelişmiş balıkçılık mesleği eklendi.
+- Gelişmiş siren sistemi eklendi.
