@@ -23,3 +23,6 @@
 - kuyumcu soygunu eklendi.
 - pausemenu eklendi.
 - fps menu eklendi.
+- tunerchip eklendi.
+- methcar eklendi.
+- mCrafing eklendi.
