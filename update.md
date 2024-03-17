@@ -34,3 +34,6 @@
 - Silah askısı eklendi.
 - Polislerin silahlarını yandan çekmesi ayarlandı.
 - Animasyon menü eklendi.
+- outfit bag eklenecek.
+- carcontrol eklenecek.
+- Kamu sistemi eklendi.
