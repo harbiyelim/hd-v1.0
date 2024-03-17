@@ -15,7 +15,6 @@
 - outfit bag eklenecek.
 - carcontrol eklenecek.
 - job garage eklenecek.
-- job helicopter çıkartma eklenecek.
 - köşe tut eklenecek.
 - şarap sistemi eklenecek.
 - kokain sistemi eklenecek.
