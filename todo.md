@@ -14,7 +14,6 @@
 - şarap sistemi eklenecek.
 - kokain sistemi eklenecek.
 - joint sistemi eklenecek.
-- tgiann mdt v2 eklenecek.
 
 #### Yapılacaklar
 
