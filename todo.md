@@ -10,8 +10,6 @@
 - atm soygunu eklenecek.
 - banka soygunu eklenecek.
 - pacific soygunu eklenecek.
-- outfit bag eklenecek.
-- carcontrol eklenecek.
 - job garage eklenecek.
 - köşe tut eklenecek.
 - şarap sistemi eklenecek.
