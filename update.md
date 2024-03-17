@@ -30,3 +30,6 @@
 - Polisler için helikopter çıkartma eklendi.
 - Gelişmiş balıkçılık mesleği eklendi.
 - Gelişmiş siren sistemi eklendi.
+- Silah sesi eklendi.
+- Silah askısı eklendi.
+- Polislerin silahlarını yandan çekmesi ayarlandı.
