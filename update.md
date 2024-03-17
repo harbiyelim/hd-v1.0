@@ -38,3 +38,5 @@
 - carcontrol eklenecek.
 - Kamu sistemi eklendi.
 - atm soygunu eklendi.
+- tgiann mdtv2 eklendi.
+  
