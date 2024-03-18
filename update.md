@@ -39,4 +39,5 @@
 - Kamu sistemi eklendi.
 - atm soygunu eklendi.
 - tgiann mdtv2 eklendi.
-  
+- job garage eklendi.
+- target üzerinde css iyileştirmesi yapıldı.
