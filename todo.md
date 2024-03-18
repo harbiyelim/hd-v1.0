@@ -9,7 +9,6 @@
 - ev soygunu düzenlenecek.
 - banka soygunu eklenecek.
 - pacific soygunu eklenecek.
-- job garage eklenecek.
 - köşe tut eklenecek.
 - şarap sistemi eklenecek.
 - kokain sistemi eklenecek.
