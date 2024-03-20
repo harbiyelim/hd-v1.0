@@ -41,3 +41,4 @@
 - tgiann mdtv2 eklendi.
 - job garage eklendi.
 - target üzerinde css iyileştirmesi yapıldı.
+- ev soygunu eklendi.
