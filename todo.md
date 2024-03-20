@@ -6,7 +6,6 @@
 - illegal doktor eklenecek.
 - sanat eseri soygunu eklenecek.
 - tren soygunu eklenecek.
-- ev soygunu düzenlenecek.
 - banka soygunu eklenecek.
 - pacific soygunu eklenecek.
 - köşe tut eklenecek.
