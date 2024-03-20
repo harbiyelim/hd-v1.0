@@ -17,7 +17,7 @@
 
 - operasyon scripti yazılacak.
 - radial menu değişecek.
-- 
+  
 #### Düzenleme
 
 - dil düzenleme yapılacak.
