@@ -12,6 +12,8 @@
 - şarap sistemi eklenecek.
 - kokain sistemi eklenecek.
 - joint sistemi eklenecek.
+- bobcat robbery
+- panic button
 
 #### Yapılacaklar
 
