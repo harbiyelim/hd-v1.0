@@ -26,3 +26,5 @@
 - codem-garages düzenlenecek.
 - m-vehicleshop düzenlenecek.
 - log düzenlemesi yapılacak.
+- boss-menu konumları düzenlenecek.
+- police alert entegresi düzenlenecek.
