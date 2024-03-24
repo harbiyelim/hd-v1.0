@@ -45,3 +45,5 @@
 - hastane fixlendi.
 - boss menu eklendi.
 - Kara para aklama mesleği eklendi.
+- bean bag silahı eklendi.
+- köşe tut eklendi.
