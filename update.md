@@ -43,3 +43,4 @@
 - target üzerinde css iyileştirmesi yapıldı.
 - ev soygunu eklendi.
 - hastane fixlendi.
+- boss menu eklendi.
