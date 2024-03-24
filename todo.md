@@ -8,7 +8,6 @@
 - tren soygunu eklenecek.
 - banka soygunu eklenecek.
 - pacific soygunu eklenecek.
-- köşe tut eklenecek.
 - şarap sistemi eklenecek.
 - kokain sistemi eklenecek.
 - joint sistemi eklenecek.
