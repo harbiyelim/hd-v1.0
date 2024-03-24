@@ -44,3 +44,5 @@
 - ev soygunu eklendi.
 - hastane fixlendi.
 - boss menu eklendi.
+- Kara para ekleme mesleği eklendi.
+- 
