@@ -47,3 +47,4 @@
 - Kara para aklama mesleği eklendi.
 - bean bag silahı eklendi.
 - köşe tut eklendi.
+- weed eklendi.
