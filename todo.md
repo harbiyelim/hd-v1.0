@@ -27,3 +27,14 @@
 - log düzenlemesi yapılacak.
 - boss-menu konumları düzenlenecek.
 - police alert entegresi düzenlenecek.
+
+
+#### XXXXX
+
+- qb-shops dan silahcılar
+- doj mesleği
+- polis bildirim meslek entegresi
+- bilp ayarlaması
+- f3
+- legal satıcılık
+- ev soygunu ürünü satıcılık
