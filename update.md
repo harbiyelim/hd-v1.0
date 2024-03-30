@@ -48,3 +48,4 @@
 - bean bag silahı eklendi.
 - köşe tut eklendi.
 - weed eklendi.
+- ev soygunu ürünü satılacak npc ayarlandı.
