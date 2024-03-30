@@ -37,4 +37,3 @@
 - bilp ayarlaması
 - f3
 - legal satıcılık
-- ev soygunu ürünü satıcılık
